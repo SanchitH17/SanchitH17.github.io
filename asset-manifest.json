@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef75ddca.css",
+    "main.js": "/static/js/main.d0d7dd42.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Flipkart.png": "/static/media/Flipkart.03a96d2fc3d9e6022862.png",
+    "static/media/TRAVLIOUS.png": "/static/media/TRAVLIOUS.f24efaa63a495227c153.png",
+    "static/media/Skin Store.png": "/static/media/Skin Store.67e5ea0ebebf8560d2b5.png",
+    "static/media/portfolio.png": "/static/media/portfolio.d2a0c29f40273128b657.png",
+    "static/media/bigbasket.png": "/static/media/bigbasket.bc5bbcc8e424205670ea.png",
+    "static/media/instagram.png": "/static/media/instagram.b2e578ba6f9e72e8439a.png",
+    "static/media/adventour.png": "/static/media/adventour.0c34fb062a4c1eac2259.png",
+    "static/media/expedia.png": "/static/media/expedia.ce4bd950737be0149d0e.png",
+    "static/media/Sanchit Handa-Full Stack Web Developer.pdf": "/static/media/Sanchit Handa-Full Stack Web Developer.c624ad9aeb4c5fef5c1c.pdf",
+    "static/media/42146-profile_pic (1).png": "/static/media/42146-profile_pic (1).a04fe9e19ee79ff2303f.png",
+    "static/media/logo.png": "/static/media/logo.134ea3d574f678ad06f2.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ef75ddca.css.map": "/static/css/main.ef75ddca.css.map",
+    "main.d0d7dd42.js.map": "/static/js/main.d0d7dd42.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef75ddca.css",
+    "static/js/main.d0d7dd42.js"
+  ]
+}
