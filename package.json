@@ -1,33 +1,39 @@
 {
-  "homepage": "https://SanchitH17.github.io",
-  "name": "my-portfolio",
+  "name": "portfolio",
+  "homepage": "https://iamFaizee.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.4.0",
-    "@fortawesome/free-brands-svg-icons": "^6.4.0",
-    "@fortawesome/free-solid-svg-icons": "^6.4.0",
-    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/joy": "^5.0.0-alpha.57",
+    "@mui/material": "^5.14.0",
+    "@mui/styled-engine-sc": "^5.10.16",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "aos": "^2.3.4",
-    "font-awesome": "^4.7.0",
-    "latest": "^0.2.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
+    "react-animated-cursor": "^2.5.2",
     "react-dom": "^18.2.0",
-    "react-github-calendar": "^4.0.0",
-    "react-icons": "^4.8.0",
+    "react-github-calendar": "^3.4.0",
+    "react-github-graph": "^1.6.1",
+    "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
-    "save-dev": "^0.0.1-security",
+    "react-scroll": "^1.8.9",
+    "react-scroll-to-element": "^0.2.0",
+    "react-type-animation": "^2.1.2",
+    "react-typeme": "^1.0.1",
+    "scroll-to-element": "^2.0.3",
+    "styled-components": "^5.3.6",
     "typewriter-effect": "^2.19.0",
-    "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -49,8 +55,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }

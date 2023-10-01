@@ -1,0 +1,34 @@
+
+
+@media screen and (max-width:950px) {
+    
+    .contactheading{
+        font-size: 3rem!important;
+    }
+    
+    .contactSubHeading{
+        font-size: 1.2rem!important;
+        width: 85%!important;
+    }
+    .contactButton{
+        margin-top: 4%!important;
+    }
+}
+
+@media screen and (max-width:400px) {
+    
+    .contactheading{
+        font-size: 2rem!important;
+    }
+    
+    .contactSubHeading{
+        font-size: 0.8rem!important;
+        width: 100%!important;
+    }
+    .contactButton{
+        margin-top: 4%!important;
+    }
+    .contact-logo a{
+        font-size: 1rem!important;
+    }
+}
