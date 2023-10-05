@@ -1,7 +1,7 @@
 import { Box, Button, Grid, Slide, Typography, Zoom } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import "./About.css"
-import profilePic from '../../media/42146-profile_pic (1).png';
+import profilePic from '../../media/42146-profile_pic (2).png';
 import LinearDeterminate from '../MiniComponent/ProgressComp';
 import resume from "../../media/Sanchit Handa-Full Stack Web Developer.pdf"
 
