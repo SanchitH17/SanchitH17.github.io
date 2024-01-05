@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Faizan</h1>
+<h1 align="center">Hi 👋, I'm Sanchit</h1>
 <p align="center">Fueling Your Full Stack Journey</p>
 
 - 🔭 I’m currently working on **my personal Development**
