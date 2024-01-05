@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NodeJS, MongoDB and React-Native**
 
-- 👨‍💻 All of my projects are available at [https://iamFaizee.github.io/](https://iamFaizee.github.io/)
+- 👨‍💻 All of my projects are available at [https://sanchith17.github.io//](https://sanchith17.github.io//)
 
 - 💬 Ask me about **ReactJS | JavaScript | Chakra UI | Bootstrap | Material UI | Redux | HTML | CSS | Java**
 
-- 📫 How to reach me **khanfaizan1123@gmail.com**
+- 📫 How to reach me **sanchithanda7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10TNuZZeJbtnzHW0oCSiJ5I7f1n0MMbqf/view?usp=drive_link](https://drive.google.com/file/d/10TNuZZeJbtnzHW0oCSiJ5I7f1n0MMbqf/view?usp=drive_link)
 
