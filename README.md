@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my personal Development**
 
-- 🌱 I’m currently learning **NodeJS, MongoDB and React-Native**
+- 🌱 I’m currently learning **NodeJS, MongoDB and React.JS**
 
 - 👨‍💻 All of my projects are available at [https://sanchith17.github.io//](https://sanchith17.github.io//)
 
@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **sanchithanda7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10TNuZZeJbtnzHW0oCSiJ5I7f1n0MMbqf/view?usp=drive_link](https://drive.google.com/file/d/10TNuZZeJbtnzHW0oCSiJ5I7f1n0MMbqf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QEya_-JxHtWxjR10QA4jFnglSswmirfD/view?usp=sharing](https://drive.google.com/file/d/1QEya_-JxHtWxjR10QA4jFnglSswmirfD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faizan-khan-455216261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faizan-khan-455216261/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/khanfaizan1123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/khanfaizan1123/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanchithanda//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchithanda//" height="30" width="40" /></a>
+<a href="https://leetcode.com/sanchithanda7//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanchithanda7//" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
